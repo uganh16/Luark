@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Luark",
+	"Description": "Luark is a lightweight Lua scripting integration plugin for Unreal Engine.",
+	"Category": "Other",
+	"CreatedBy": "uganh16",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Luark",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
